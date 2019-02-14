@@ -8,3 +8,6 @@ def roll
  #random = myarray[rand(myarray.length)] 
  rand(1..6)
 end
+
+
+#3 Methods for selecting a random number#
