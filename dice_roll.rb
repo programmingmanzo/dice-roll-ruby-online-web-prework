@@ -4,7 +4,6 @@
 
 def roll
  # 1 + rand(6)
- myArray = [1, 2, 3, 4, 5, 6]
- random = myArray[ran] 
- 
+ myarray = [1, 2, 3, 4, 5, 6]
+ random = myarray[ran] 
 end
