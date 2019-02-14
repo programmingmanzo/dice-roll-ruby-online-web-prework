@@ -5,6 +5,6 @@
 def roll
  # 1 + rand(6)
  myarr = [1, 2, 3, 4, 5, 6]
- 
+ random = 
  
 end
